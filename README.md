@@ -4,23 +4,6 @@ Ce répertoire contient mes solutions pour les problèmes proposés sur la plate
 
 Chaque problème est numéroté et présenté sous forme d'un fichier dans lequel vous trouverez le code correspondant à ma solution.
 
-## Organisation du répertoire
-
-Le répertoire est organisé de la manière suivante :
-
-Problems/  
-├── Problem1/  
-│   └── problem1.py  
-├── Problem2/  
-│   └── problem2.py  
-├── Problem3/  
-│   └── problem3.py  
-├── ...  
-└── ProblemN/  
-    └── problemN.py  
-
-Chaque dossier correspond à un problème et contient un fichier nommé selon le numéro du problème, contenant la solution.
-
 ## Comment utiliser ce répertoire
 
 Vous pouvez cloner ce répertoire en utilisant la commande suivante :
